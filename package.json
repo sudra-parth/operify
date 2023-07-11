@@ -1,0 +1,17 @@
+{
+  "name": "securesign",
+  "version": "1.0.0",
+  "description": "The decentralized blockchain-based identity/document verification DApp solves the problem of trust in identity and document verification. In today's world, we often have to rely on third-party verification services to verify identities and documents. However, these services are often centralized and can be prone to errors, fraud, and hacking.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
